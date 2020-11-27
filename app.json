@@ -1,7 +1,6 @@
 {
 	"name": "Heroku aria2",
 	"description": "Aria2 for Heroku",
-	"repository": "https://github.com/moeik/Heroku_aria2",
 	"keywords": ["aria2"],
 	"env": {
 		"HEROKU_APP_NAME": {
